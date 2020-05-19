@@ -1,0 +1,16 @@
+{
+  "name": "motor_driver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "start app.js"
+  },
+  "author": "tanmv",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.0-rc.4",
+    "express": "^4.13.4",
+    "tracer": "^0.8.3"
+  }
+}

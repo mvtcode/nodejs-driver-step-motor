@@ -1,0 +1,8 @@
+{
+	"uid": "app",
+	"append": true,
+	"watch": true,
+	"script": "app.js",
+	"sourceDir": "/home/sysadmin/motor.js/",
+	"args": ["--port", "4953"]
+}

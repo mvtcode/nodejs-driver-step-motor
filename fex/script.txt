@@ -1,0 +1,1 @@
+~/sunxi-tools/fex2bin ~/Dropbox/vp9_project/motor_driver/fex/script.fex ~/Dropbox/vp9_project/motor_driver/fex/script.bin
